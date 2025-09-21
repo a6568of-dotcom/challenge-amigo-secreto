@@ -6,7 +6,7 @@
 <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a7e877eb-b934-41ff-9188-5ffc09b23579" />
 </p>
 
-Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombres de los amigos, se muestre la lista ordenada y se sorteen para que un amigo sea seleccionado al azar, siendo el "amigo secreto". Proyecto para el programa ONE denominado "Challenge Amigo Secreto".
+Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombres de los amigos, se muestre la lista ordenada y se sorteen para que un nombre sea seleccionado al azar, siendo el "amigo secreto". Proyecto para el programa ONE denominado "Challenge Amigo Secreto".
 
 
 <h4 align="center">
