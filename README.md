@@ -21,9 +21,9 @@ Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombre
 
 
 - [Funcionalidades del proyecto](#hammer-funcionalidades-del-proyecto)
-- [Acceso y ejecución del proyecto](#file_folder-acceso-y-ejecucion-del-proyecto)
+- [Acceso y ejecución del proyecto](#file_folder-acceso-y-ejecución-del-proyecto)
 - [Posibles problemas y soluciones](#wrench-posibles-problemas-y-soluciones)
-- [Tecnologías utilizadas](#white_check_mark-tecnologias-utilizadas)
+- [Tecnologías utilizadas](#white_check_mark-tecnologías-utilizadas)
 - [Autor](#autor)
 
 
