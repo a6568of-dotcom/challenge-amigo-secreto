@@ -15,6 +15,22 @@ Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombre
 
 <br>
 
+## Índice
+<details>
+<sumary>Mostrar / ocultar</sumary>
+
+
+- [Funcionalidades del proyecto](#hammer-funcionalidades-del-proyecto)
+- [Acceso y ejecución del proyecto](#file_folder-acceso-y-ejecucion-del-proyecto)
+- [Posibles problemas y soluciones](#wrench-posibles-problemas-y-soluciones)
+- [Tecnologías utilizadas](#white_check_mark-tecnologias-utilizadas)
+- [Autor](#autor)
+
+
+<details>
+
+<br>
+
 ## :hammer: Funcionalidades del proyecto
 - **`Añadir nombres en el campo de texto con el botón "Añadir"`**
 <p align="center">
@@ -85,7 +101,7 @@ Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombre
 
 <br><br>
 
-## **Autores**
+## **Autor**
 | |
 |:--:|
 | [<img src="https://github.com/user-attachments/assets/99f059f3-89cd-4ef2-8d2e-5e1411dd933d" width=115><br><sub>Arely Hernández</sub>](https://github.com/a6568of-dotcom)
