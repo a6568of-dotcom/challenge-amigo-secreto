@@ -61,7 +61,7 @@ Proyecto de página web para juego de sorteo de amigos, donde se ingresen nombre
   **Solución:** implementación de validación de entrada que no permita duplicados.
 
 - **`Añadir con la tecla Enter`**  
-  Sólo se puede añadir clickeando el abotón "añadir" y no con Enter.  
+  Sólo se puede añadir clickeando el botón "añadir" y no con Enter.  
   **Solución:** habilitar que al presionar Enter en el campo de texto, se agrege el nombre a la lista.
 
 - **`Amigos sorteados repetidos`**  
